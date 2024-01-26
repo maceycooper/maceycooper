@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hello! 🙋‍♀️
+
+Hi everyone, my name is Macey and I am a current Applied Quantitative Economics graduate student at Pace University🏙
+
+- I am interested in healthcare economics and have done research projects focused on maternal mortality.
+- I am currently working on a thesis building on my previous work.
+- I am excited to learn Python and further my skills with R.
+
+Outside of school, I like to... 
+
+- Run 🏃‍♀️ (I am training for a half marathon in April!)
+- Try new restaurants/bars in NYC 🥂🍕
+- Read and watch thrillers/mysteries 🔍
 
 <!--
 **maceycooper/maceycooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
