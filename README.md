@@ -12,6 +12,9 @@ Outside of school, I like to...
 - Try new restaurants/bars in NYC 🥂🍕
 - Read and watch thrillers/mysteries 🔍
 
+
+![Alt Text](https://i.pinimg.com/originals/75/cf/b1/75cfb15aed1b43f56d09e23569c636fe.gif)
+
 <!--
 **maceycooper/maceycooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
